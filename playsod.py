@@ -1,0 +1,2 @@
+from playsound import playsound 
+playsound("C:\\Users\\HP\\Music\\Y2Mate.is - Is Tarah Aashiqui Ka Lyrical - Imtihan  Kumar Sanu  Saif Ali Khan, Raveena Tandon & Sunny Deol-Y-o8NQ8Y36A-160k-1644949421410.mp3")
